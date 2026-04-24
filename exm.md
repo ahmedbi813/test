@@ -1,0 +1,1 @@
+![XSS](x onerror=alert(1))
